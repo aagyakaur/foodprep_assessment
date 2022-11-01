@@ -1,6 +1,6 @@
-# floward_assessment
+# Food Preparation Time assessment
 
-This is Jupyter notebook for Floward Case Study for predicting food preparation time.
+This is Jupyter notebook for Case Study predicting food preparation time.
 
 
 ## Important Notes
